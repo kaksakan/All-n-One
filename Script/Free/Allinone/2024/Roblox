@@ -71,6 +71,13 @@ Tab:AddButton({
   	end    
 })
 
+Tab:AddButton({
+	Name = "1 2 3 Blast Off Simulator Script",
+	Callback = function()
+      		https://raw.githubusercontent.com/kaksakan/1-2-3-Blast-Off-Simulator/main/Main/Script/Keyless/2024.lua
+  	end    
+})
+
 local Tab = Window:MakeTab({
 	Name = "Player",
 	Icon = "rbxassetid://4483345998",
